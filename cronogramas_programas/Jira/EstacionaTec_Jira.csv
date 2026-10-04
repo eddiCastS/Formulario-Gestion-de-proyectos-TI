@@ -1,0 +1,9 @@
+﻿Issue Key,Summary,Issue Type,Project Name,Start date,Due date,Description,Assignee,Priority,Status
+EST-1,Definir alcance del proyecto,Task,EstacionaTec,2025-03-03,2025-03-14,Definición inicial del alcance y entregables,AM,Alta,To Do
+EST-2,Identificar requerimientos,Task,EstacionaTec,2025-03-17,2025-04-04,Análisis de requerimientos funcionales y no funcionales,AM,Alta,Done
+EST-3,Diseñar base de datos,Task,EstacionaTec,2025-04-07,2025-05-02,Modelo de datos del sistema,AM,Media,In Progress
+EST-4,Módulo de reservación de cajones,Story,EstacionaTec,2025-05-05,2025-05-30,Desarrollo del módulo principal de reservación,AM,Alta,In Progress
+EST-5,Registro de entradas y salidas,Story,EstacionaTec,2025-06-02,2025-06-27,Control operativo de acceso,AM,Alta,To Do
+EST-6,Conteo de espacios disponibles,Task,EstacionaTec,2025-06-30,2025-07-18,Visualización de disponibilidad en tiempo real,AM,Media,To Do
+EST-7,Pruebas,Task,EstacionaTec,2025-07-21,2025-08-08,Validación integral del sistema,AM,Media,To Do
+EST-8,Cierre del proyecto,Task,EstacionaTec,2025-08-11,2025-08-22,Entrega y cierre administrativo,AM,Baja,To Do

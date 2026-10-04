@@ -1,0 +1,10 @@
+﻿Issue Key,Summary,Issue Type,Project Name,Start date,Due date,Description,Assignee,Priority,Status
+LM-1,Definir alcance del proyecto,Task,LocalMarket,2025-01-06,2025-01-24,Definición del alcance general del sistema,JD,Alta,Done
+LM-2,Registro de usuarios,Story,LocalMarket,2025-01-20,2025-02-14,Módulo de alta e inicio de sesión,JD,Alta,In Progress
+LM-3,Publicación de productos,Story,LocalMarket,2025-02-03,2025-03-21,Publicación de artículos para venta,JD,Alta,In Progress
+LM-4,Búsqueda y filtros,Task,LocalMarket,2025-02-24,2025-04-04,Motor de búsqueda y filtros,JD,Media,To Do
+LM-5,Seguimiento de pedidos,Task,LocalMarket,2025-03-17,2025-04-25,Estados y seguimiento del pedido,JD,Alta,To Do
+LM-6,Reparto a domicilio,Story,LocalMarket,2025-04-07,2025-05-16,Módulo logístico de entrega,JD,Alta,To Do
+LM-7,Moderación de contenido,Task,LocalMarket,2025-04-28,2025-05-30,Revisión de publicaciones y contenido,JD,Media,To Do
+LM-8,Pruebas,Task,LocalMarket,2025-05-19,2025-06-06,Pruebas funcionales del sistema,JD,Media,To Do
+LM-9,Cierre del proyecto,Task,LocalMarket,2025-06-09,2025-06-20,Cierre final del proyecto,JD,Baja,To Do

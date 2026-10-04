@@ -1,0 +1,10 @@
+﻿List Name,Card Name,Description,Labels,Due Date,Members
+Por hacer,Levantamiento de requerimientos,Definir módulos y procesos del marketplace local,"Requerimientos,Planificación",2025-10-10,Equipo
+Por hacer,Diseño del marketplace,Definir estructura general y experiencia de usuario,"Diseño,UI/UX",2025-10-12,Equipo
+Por hacer,Registro de usuarios,Configurar autenticación y perfiles,"Backend,Autenticación",2025-10-13,Equipo
+En proceso,Publicación de productos,Permitir publicación de productos en la tienda,"Desarrollo,Catálogo",2025-10-15,Equipo
+En proceso,Búsqueda y filtros,Implementar buscador y filtros de productos,"Desarrollo,Búsqueda",2025-10-17,Equipo
+En proceso,Seguimiento de pedidos,Registrar estados del pedido y notificaciones,"Integración,Pagos",2025-10-20,Equipo
+Terminado,Pruebas del sistema,Validar el funcionamiento del marketplace,"Pruebas,Calidad",2025-10-10,QA
+Terminado,Implementación,Preparar despliegue del sistema,"Despliegue,Infraestructura",2025-10-15,Equipo
+Terminado,Reparto a domicilio,Organizar la logística de entregas,"Logística,Envíos",2025-10-12,Equipo

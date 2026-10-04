@@ -1,0 +1,9 @@
+﻿Issue Key,Summary,Issue Type,Project Name,Start date,Due date,Description,Assignee,Priority,Status
+RVC-1,Definir alcance del proyecto,Task,Rinconcito VC,2025-04-01,2025-04-16,Delimitar objetivos y módulos del marketplace,LM,Alta,To Do
+RVC-2,Catálogo de cafés,Story,Rinconcito VC,2025-04-15,2025-04-30,Configurar catálogo de productos,LM,Alta,In Progress
+RVC-3,Validación de vendedores,Task,Rinconcito VC,2025-04-25,2025-05-24,Implementar validación de productores y vendedores,LM,Alta,To Do
+RVC-4,Pasarela de pagos,Story,Rinconcito VC,2025-05-26,2025-06-20,Integrar pagos con tarjeta y PayPal,LM,Alta,To Do
+RVC-5,Carrito de compras,Story,Rinconcito VC,2025-06-03,2025-07-03,Desarrollo del carrito y confirmación de compra,LM,Media,To Do
+RVC-6,Pedidos en línea,Task,Rinconcito VC,2025-06-18,2025-08-01,Seguimiento de pedidos realizados,LM,Media,To Do
+RVC-7,Pruebas,Task,Rinconcito VC,2025-07-15,2025-08-10,Pruebas funcionales y de pagos,LM,Media,To Do
+RVC-8,Cierre del proyecto,Task,Rinconcito VC,2025-07-28,2025-08-16,Cierre y entrega,LM,Baja,To Do

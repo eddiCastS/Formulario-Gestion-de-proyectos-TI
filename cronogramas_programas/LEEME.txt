@@ -1,0 +1,16 @@
+Archivos de cronogramas y tableros para tus proyectos de Gestión de Proyectos de TI
+
+Contenido:
+- Carpeta Trello: archivos CSV con columnas de listas, tarjetas, etiquetas y fechas.
+- Carpeta Jira: archivos CSV con tareas, fechas, estado y prioridad.
+- Carpeta ProjectLibre: archivos XML que pueden abrirse/importarse en ProjectLibre o programas compatibles con Microsoft Project XML.
+
+Proyectos incluidos:
+- EstacionaTec
+- Rinconcito VC
+- LocalMarket
+
+Sugerencia de uso:
+1. Abre los CSV si solo quieres editar el contenido.
+2. En Jira o Trello puedes usar los CSV como base para captura o importación, según la herramienta disponible.
+3. Para ProjectLibre, intenta abrir los archivos XML directamente.

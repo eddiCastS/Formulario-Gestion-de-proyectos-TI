@@ -1,0 +1,9 @@
+﻿List Name,Card Name,Description,Labels,Due Date,Members
+Por hacer,Levantamiento de requerimientos del marketplace,Definir funciones para catálogo y ventas de café,"Planeación,Requisitos",2025-10-10,Equipo
+Por hacer,Diseño del catálogo de cafés,"Estructurar categorías, productos y descripciones","Diseño,Catálogo",2025-10-12,Equipo
+Por hacer,Validación de vendedores,Verificar productores y vendedores registrados,"Vendedores,Validación",2025-10-13,Equipo
+En proceso,Integración de pagos,Implementar tarjetas y PayPal,"Desarrollo,Pagos",2025-10-14,Equipo
+En proceso,Carrito y compras en línea,Habilitar el flujo de compra de café,"Desarrollo,Frontend",2025-10-18,Equipo
+En proceso,Diseño de la interfaz principal,Diseñar la vista inicial del marketplace,"Diseño,Interfaz",2025-10-22,Equipo
+Terminado,Pruebas del sistema,"Validar pagos, carrito y catálogo","Pruebas,Calidad",2025-10-09,QA
+Terminado,Implementación,Preparar despliegue de la tienda,"Despliegue,Infraestructura",2025-10-12,Equipo

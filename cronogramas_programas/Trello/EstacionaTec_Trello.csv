@@ -1,0 +1,8 @@
+﻿List Name,Card Name,Description,Labels,Due Date,Members
+Por hacer,Levantamiento de requerimientos,Definir necesidades del sistema de estacionamiento para hoteles,"Requerimientos,Análisis",2025-10-10,Eddi
+Por hacer,Diseño de base de datos,"Estructurar tablas para vehículos, cajones, hoteles y usuarios","Diseño,Base de datos",2025-10-12,Eddi
+En proceso,Módulo de reservación de cajones,Desarrollar módulo para reservar cajones desde la app o panel,"Desarrollo,Web",2025-10-14,Equipo
+En proceso,Registro de entradas y salidas,Controlar ingreso y salida de vehículos,"Desarrollo,Backend",2025-10-17,Equipo
+En proceso,Interfaz del panel hotelero,Diseñar la vista para administrar espacios disponibles,"Diseño,Interfaz",2025-10-20,Equipo
+Terminado,Pruebas del sistema,Validar funcionamiento general del sistema,"Pruebas,Calidad",2025-10-09,QA
+Terminado,Implementación,Preparar despliegue del sistema en entorno de uso,"Despliegue,Infraestructura",2025-10-12,Equipo
